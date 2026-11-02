@@ -36,7 +36,7 @@
 
 ### Prerequisites
 
-- Node.js ≥ 18
+- Node.js ≥ 22
 - `yarn` (recommended) or `npm`
 
 ### Setup
