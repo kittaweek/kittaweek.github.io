@@ -8,7 +8,7 @@
 ## โครงสร้าง
 - `site/` เนื้อหา (about, career, portfolio, articles) · `site/th/` = ฉบับภาษาไทย ต้องแก้คู่กับ EN
 - `site/.vitepress/config.mts` = nav, i18n, sitemap · `site/docs/` อยู่ใน `.gitignore` (ยังไม่เผยแพร่)
-- deploy ผ่าน GitHub Pages ด้วย `.github/workflows/deploy.yml` · branch `gh-pages` เป็นของเก่า ไม่ต้องแก้
+- deploy ผ่าน GitHub Pages ด้วย `.github/workflows/deploy.yml`
 
 ## คำสั่ง
 - `make install` / `make dev` (port 8080) / `make build` / `make preview` / `make audit`
