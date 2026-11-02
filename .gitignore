@@ -137,3 +137,6 @@ site/portfolio/_index-draft.md
 
 # Mac OS X
 .DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
